@@ -4,6 +4,10 @@
 
 > **Team members:** &nbsp;&nbsp;Amit Adam, David Volokh, Gefen Rashty
 
+
+![DAG_poster_page](https://github.com/user-attachments/assets/1c550b10-21c0-43d8-afb4-6657f6036059)
+
+
 ## 1. What is the problem you are trying to solve?
 
 - The challenge of understanding human speech from distorted or incomprehensible digital audio recordings.
@@ -29,6 +33,3 @@
 ## **6\. Are there any external dependencies?**
 
 - As part of the Generative AI Application Workshop, we will research and utilize existing AI models and tools, such as pre-trained generative AI frameworks. We will adapt and fine-tune these models to meet the specific requirements of our project.
-
-![DAG_poster_page](https://github.com/user-attachments/assets/1c550b10-21c0-43d8-afb4-6657f6036059)
-
