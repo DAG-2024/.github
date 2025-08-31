@@ -7,6 +7,7 @@
 
 ![DAG_poster_page](https://github.com/user-attachments/assets/1c550b10-21c0-43d8-afb4-6657f6036059)
 
+![DAG_poster_page](https://github.com/DAG-2024/.github/blob/091b61de84752225dfd9abaf93310c15d21ff526/profile/DAG_poster.jpg)
 
 ## 1. What is the problem you are trying to solve?
 
