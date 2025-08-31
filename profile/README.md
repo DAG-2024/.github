@@ -1,3 +1,2 @@
 # DAG
-
-![DAG_poster_page](https://github.com/DAG-2024/.github/blob/8434554ce6c2a14c3a6166ee5fe0957a37292c78/profile/DAG_poster_page.jpg)
+<img width="2067" height="2664" alt="DAG_poster" src="https://github.com/user-attachments/assets/6d515ea1-0f31-4b25-a1b3-ebf2f376e7c2" />
