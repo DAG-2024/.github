@@ -5,7 +5,7 @@
 > **Team members:** &nbsp;&nbsp;Amit Adam, David Volokh, Gefen Rashty
 
 
-![DAG_poster_page](https://github.com/user-attachments/assets/1c550b10-21c0-43d8-afb4-6657f6036059)
+![DAG_poster_page](https://github.com/DAG-2024/.github/blob/8434554ce6c2a14c3a6166ee5fe0957a37292c78/profile/DAG_poster_page.jpg)
 
 ## 1. What is the problem you are trying to solve?
 
